@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<songs>
+    <song id="101">
+         <artist>Ed Sheeran</artist >
+         <title>Bad Habits</title >
+         <genre>Dance-pop</genre>
+         <year> 25 June 2021</year>
+         <country> USA</country>
+         <image>"https://cdn.pixabay.com/photo/2014/05/21/15/18/musician-349790__480.jpg"</image>
+    </song>
+    <song id="102">
+         <artist>Olivia Rodrigo</artist >
+         <title>4 YOU</title >
+         <genre> Rock; ‎pop rock‎; ‎pop-punk‎; ‎teen pop</genre>
+         <year>  May 14, 2021</year>
+         <country>USA </country>
+         <image>"https://cdn.pixabay.com/photo/2015/05/07/11/02/guitar-756326__340.jpg" </image>
+    </song>
+    <song id="103">
+         <artist>Anne-Marie, Marshmello</artist >
+         <title>F.R.E.N.D.S</title >
+         <genre>Pop</genre>
+         <year> 2018</year>
+         <country>iHeartRadio Music Award for Dance Song of the Year</country>
+         <image>"https://cdn.pixabay.com/photo/2015/03/08/17/25/musician-664432__340.jpg" </image>
+    </song>
+    <song id="104">
+         <artist>Tones and I</artist >
+         <title>DANCE MONKY</title >
+         <genre>DANCE</genre>
+         <year> 2019</year>
+         <country>Labanon</country>
+         <image>"https://cdn.pixabay.com/photo/2020/08/31/00/33/guitar-5531027__340.jpg" </image>
+    </song>
+    <song id="105">
+         <artist>Give Me Everything Mac</artist >
+         <title>bIT BULL </title >
+         <genre>pop</genre>
+         <year> 2011</year>
+         <country> USA</country>
+         <image>"https://cdn.pixabay.com/photo/2020/11/27/07/32/choir-5781096__340.jpg" </image>
+    </song>
+    <song id="106">
+         <artist>Fleetwood Mac</artist >
+         <title>Tusk</title >
+         <genre>Rock</genre>
+         <year> 1979-08-01</year>
+         <country>Romania</country>
+         <image>"https://cdn.pixabay.com/photo/2013/02/22/09/03/singer-84874__340.jpg" </image>
+    </song>
+    <song id="107">
+         <artist>Fleetwood Mac</artist >
+         <title>Tusk</title >
+         <genre>Rock</genre>
+         <year> 1979-08-01</year>
+         <country> Berlin</country>
+         <image>"https://cdn.pixabay.com/photo/2021/08/11/11/55/kid-6538301__340.jpg" </image>
+    </song>
+    <song id="108">
+         <artist>Fleetwood Mac</artist >
+         <title>Tusk</title >
+         <genre>Rock</genre>
+         <year> 1979-08-01</year>
+         <country> Russia</country>
+         <image>"https://cdn.pixabay.com/photo/2021/08/13/17/31/boy-6543599__340.jpg"</image>
+    </song>
+    <song id="109">
+         <artist>Fleetwood Mac</artist >
+         <title>Tusk</title >
+         <genre>Rock</genre>
+         <year> 1979-08-01</year>
+         <country> </country>
+         <image>"https://cdn.pixabay.com/photo/2014/05/21/15/18/musician-349790__480.jpg" </image>
+    </song>
+    <song id="110">
+         <artist>Fleetwood Mac</artist >
+         <title>Tusk</title >
+         <genre>Rock</genre>
+         <year> 1979-08-01</year>
+         <country> </country>
+         <image>"https://cdn.pixabay.com/photo/2014/05/21/15/18/musician-349790__480.jpg" </image>
+    </song>
+</songs>
